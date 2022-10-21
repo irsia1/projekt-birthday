@@ -67,7 +67,7 @@ h1, h2, h3, h4, p {
     background-position: -65px 0px;
 }
 
-#gift-img-hot:hover {
+#gift-img-cooking:hover {
     background-image: url("images/cooking.webp");
 }
 
@@ -75,8 +75,8 @@ h1, h2, h3, h4, p {
      background-image: url("images/travel.gif");
      background-position: -40px 0px;
  }
- 
-    
+
+
 #gift-img-long-living:hover {
     background-image: url("images/long-living.gif");
 }
@@ -96,12 +96,12 @@ a {
     color: white;
 }
 
-/* 
-Add the footer paragraph according to the design. 
+/*
+Add the footer paragraph according to the design.
 Configure the anchor tag to open the link in a new tab.
-Forgotten how to do it? Google it! 
+Forgotten how to do it? Google it!
 
-Link: 
+Link:
 https://scrimba.com/learn/htmlandcss
 
 Text:
